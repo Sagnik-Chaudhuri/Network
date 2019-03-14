@@ -12,3 +12,4 @@ sh sender_script.sh
 ```
 
 ### Screenshots
+![Alt text](/images/Screenshots.png?raw=true "Screenshot")
